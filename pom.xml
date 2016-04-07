@@ -21,6 +21,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
+		<axon-core.version>2.4.4</axon-core.version>
 	</properties>
 
 	<dependencies>
@@ -43,12 +44,12 @@
 		<dependency>
 			<groupId>org.axonframework</groupId>
 			<artifactId>axon-core</artifactId>
-			<version>2.4.1</version>
+			<version>${axon-core.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>org.axonframework</groupId>
 			<artifactId>axon-test</artifactId>
-			<version>2.4.1</version>
+			<version>${axon-core.version}</version>
 		</dependency>
 
 
