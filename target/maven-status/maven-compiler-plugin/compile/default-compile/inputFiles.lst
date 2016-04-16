@@ -1,0 +1,15 @@
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/commandhandler/CreditAccountHandler.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/ExploringAxonApplication.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/model/Account.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/api/event/AccountDebitedEvent.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/web/IndexController.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/api/event/AccountCreditedEvent.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/web/Db.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/eventhandler/AccountCreditedEventHandler.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/AppConfiguration.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/api/command/DebitAccountCommand.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/web/ViewController.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/api/event/AccountCreatedEvent.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/eventhandler/AccountDebitedEventHandler.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/api/command/CreditAccountCommand.java
+/Users/filippolatorre/exploringCQRSwithAxon/src/main/java/exploringaxon/commandhandler/DebitAccountHandler.java
