@@ -46,8 +46,8 @@ public class Db {
             @Override
             protected void doInTransactionWithoutResult(TransactionStatus status) {
                 UnitOfWork uow = DefaultUnitOfWork.startAndGet();
-                repository.add(new Account("acc-one"));
-                repository.add(new Account("acc-two"));
+                //repository.add(new Account("acc-one"));
+                //repository.add(new Account("acc-two"));
                 uow.commit();
             }
         });
